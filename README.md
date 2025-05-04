@@ -1,6 +1,5 @@
 # Dr. Ebtesam El-Hossiny - Website Repository
 
-This repository contains the source code for the personal website of **Dr. Ebtesam El-Hossiny**. The website serves as a professional platform to showcase her work, achievements, and contact information.
 ---
 [![Website Screenshot](https://github.com/hassancodeanwar/eptesamelhossiny/blob/main/img/Screenshot%202025-05-04%20205224.png?raw=true)](https://ebtesamelhossiny.vercel.app)
 ---

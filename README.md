@@ -32,6 +32,4 @@ The website is designed to provide a professional online presence for Dr. Ebtesa
 
 ## 🖼️ Screenshot
 
-Here’s a preview of the website:
-
-![Website Screenshot](https://github.com/hassancodeanwar/eptesamelhossiny/blob/main/img/Screenshot%202025-05-04%20205224.png?raw=true)
+[![Website Screenshot](https://github.com/hassancodeanwar/eptesamelhossiny/blob/main/img/Screenshot%202025-05-04%20205224.png?raw=true)](https://ebtesamelhossiny.vercel.app)

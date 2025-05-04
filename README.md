@@ -1,7 +1,8 @@
 # Dr. Ebtesam El-Hossiny - Website Repository
 
 This repository contains the source code for the personal website of **Dr. Ebtesam El-Hossiny**. The website serves as a professional platform to showcase her work, achievements, and contact information.
-
+---
+[![Website Screenshot](https://github.com/hassancodeanwar/eptesamelhossiny/blob/main/img/Screenshot%202025-05-04%20205224.png?raw=true)](https://ebtesamelhossiny.vercel.app)
 ---
 
 ## 🌐 Live Website
@@ -28,8 +29,3 @@ The website is designed to provide a professional online presence for Dr. Ebtesa
 - **Modern Tech Stack**: Built using state-of-the-art web development technologies for performance and maintainability.
 - **Customizable Components**: The design and content can be easily updated to reflect new achievements or changes.
 
----
-
-## 🖼️ Screenshot
-
-[![Website Screenshot](https://github.com/hassancodeanwar/eptesamelhossiny/blob/main/img/Screenshot%202025-05-04%20205224.png?raw=true)](https://ebtesamelhossiny.vercel.app)

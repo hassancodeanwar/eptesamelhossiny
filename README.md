@@ -27,3 +27,11 @@ The website is designed to provide a professional online presence for Dr. Ebtesa
 - **Responsive Design**: The website is optimized to work seamlessly across all devices (desktop, tablet, mobile).
 - **Modern Tech Stack**: Built using state-of-the-art web development technologies for performance and maintainability.
 - **Customizable Components**: The design and content can be easily updated to reflect new achievements or changes.
+
+---
+
+## 🖼️ Screenshot
+
+Here’s a preview of the website:
+
+![Website Screenshot](https://github.com/hassancodeanwar/eptesamelhossiny/blob/main/img/Screenshot%202025-05-04%20205224.png?raw=true)
